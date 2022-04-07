@@ -3,7 +3,7 @@
 
 
 
-### Nessa aula, você aprendi:
+### Nessa aula, aprendi:
 
 
 - Eventos no teclado:
